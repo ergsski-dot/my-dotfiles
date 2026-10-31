@@ -1,0 +1,11 @@
+require("autostart")
+require("env")
+require("input")
+require("keybinds")
+require("misc")
+require("monitors")
+require("looknfeel")
+require("workspaces")
+require("hyprland-gui")
+-- For Noctalia Color templates
+require("noctalia").apply_theme()
